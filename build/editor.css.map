@@ -1,0 +1,1 @@
+{"version":3,"file":"editor.css","mappings":";;;AAAA;EACI;EACA;AACJ,C","sources":["webpack://osom-block-visibility/./src/editor.scss"],"sourcesContent":[".responsive-controls {\n    margin-top: 16px;\n    padding: 0 16px 16px;\n}"],"names":[],"sourceRoot":""}

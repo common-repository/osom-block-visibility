@@ -1,0 +1,32 @@
+# Copyright (C) 2024 OsomPress, Nahuai Badiola, Esther Solà
+# This file is distributed under the GPLv2.
+msgid ""
+msgstr ""
+"Project-Id-Version: Osom Block Visibility 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/osom-block-visibility\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-01-30T11:33:24+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.6.0\n"
+"X-Domain: osom-block-visibility\n"
+
+#. Plugin Name of the plugin
+msgid "Osom Block Visibility"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://osompress.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds a toggle to blocks that allows you to hide the content on mobile or desktop devices."
+msgstr ""
+
+#. Author of the plugin
+msgid "OsomPress, Nahuai Badiola, Esther Solà"
+msgstr ""
